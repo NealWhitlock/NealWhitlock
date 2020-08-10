@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Neal
+
+I have a B.S. in Mathematics Education with a Physics Education minor. I spent six years teaching Math and Physics classes in two low-income schools. In that time I began to pick up some basic coding skills and realized that programming was a field that I enjoyed even more than teaching. I decided to make the career change and chose Lambda School to help me. Since December 2019 I have been vastly increasing my understanding of statistics and data science and I look forward to the continued journey toward becoming an expert.
+
+### About
+
+-  **Learning :** Ever more Python (I hope to code up some games one day) | SQL    
+-  **Languages :** Python | SQL (basic level)
+-  **Hobbies :** Board games, biking, and hiking
+-  **Current Favor Quote :** "Never stand up when you can sit down, and never sit down when you can lie down." -Winston Churchill
+-  **Contact me :** [Neal](mailto:neal.whitlock@gmail.com)
 
 <!--
 **NealWhitlock/NealWhitlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
