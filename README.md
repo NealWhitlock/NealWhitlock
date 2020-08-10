@@ -7,7 +7,7 @@ I have a B.S. in Mathematics Education with a Physics Education minor. I spent s
 -  **Learning :** Ever more Python (I hope to code up some games one day) | SQL    
 -  **Languages :** Python | SQL (basic level)
 -  **Hobbies :** Board games, biking, and hiking
--  **Current Favor Quote :** "Never stand up when you can sit down, and never sit down when you can lie down." -Winston Churchill
+-  **Current Favorite Quote :** "Never stand up when you can sit down, and never sit down when you can lie down." -Winston Churchill
 -  **Contact me :** [Neal](mailto:neal.whitlock@gmail.com)
 
 <!--
